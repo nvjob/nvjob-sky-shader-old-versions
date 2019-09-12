@@ -1,7 +1,5 @@
 # NVJOB Dynamic Sky - simple and fast. Previous Versions.
 
-![GitHub Logo](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/blob/master/Images/Dynamic%20Sky%203.png)
-
 ![GitHub Logo](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/blob/master/Images/Dynamic%20Sky%202.png)
 
 ![GitHub Logo](https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast/blob/master/Images/Dynamic%20Sky%201.png)
