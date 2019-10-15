@@ -1,4 +1,4 @@
-# NVJOB Dynamic Sky - simple and fast. Previous Versions.
+# #NVJOB Dynamic Sky Lite (standard render). Previous Versions.
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/dynamic%20sky%20lite%20sr/221/pic/9.jpg)
 
