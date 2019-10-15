@@ -5,8 +5,8 @@
 Simple and fast sky shader. The asset includes two shaders and a simple script.
 There is an example in the asset that allows you to quickly understand how to use the "sky" in your project.
 
-Unity Asset Store - https://assetstore.unity.com/packages/vfx/particles/environment/nvjob-dynamic-sky-simple-and-fast-152747 <br/>
-Current version - https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast
+Current version - https://github.com/nvjob/NVJOB-Sky-Shader-simple-and-fast <br/>
+Unity Asset Store - https://assetstore.unity.com/packages/vfx/particles/environment/nvjob-dynamic-sky-simple-and-fast-152747
 
 -------------------------------------------------------------------
 
