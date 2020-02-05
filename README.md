@@ -15,5 +15,3 @@ There is an example in the asset that allows you to quickly understand how to us
 **License:** MIT License. Clarification of licenses - [nvjob.github.io/mit-license](https://nvjob.github.io/mit-license)
 
 **Support:** [nvjob.github.io/support](https://nvjob.github.io/support)
-
-**Report a Problem / Issue Tracker / FAQ:** [nvjob.github.io/reportaproblem](https://nvjob.github.io/reportaproblem)
