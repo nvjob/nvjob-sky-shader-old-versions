@@ -10,13 +10,6 @@ There is an example in the asset that allows you to quickly understand how to us
 
 -------------------------------------------------------------------
 
-**Patrons:** [nvjob.github.io/patrons](https://nvjob.github.io/patrons)<br>
-*You can become one of the patrons, or make a sponsorship donation.*
-
--------------------------------------------------------------------
-
 **Authors:** [#NVJOB. Developer Nicholas Veselov. Разработчик Николай Веселов. Санкт-Петербург.](https://nvjob.github.io)
 
 **License:** MIT License. [Clarification of licenses](https://nvjob.github.io/mit-license).
-
-**Support:** [Report a Problem](https://nvjob.github.io/reportaproblem/).
